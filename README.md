@@ -8,9 +8,9 @@ Upload de Imagens numa API Rest
 [SQLite]
 
 ## Instalação
-Certifique-se de ter o Python instalado, verifique a versão com o comando
+Certifique-se de ter o Python 3 instalado, verifique a versão com o comando
 ```bash
-python --version
+python3 --version
 ```
 
 Se não tiver, acesse o site (https://www.python.org/downloads/) para baixar e fazer a instalação
