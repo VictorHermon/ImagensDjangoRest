@@ -1,7 +1,7 @@
 # ImagensDjangoRest
 Upload de Imagens numa API Rest
 
-## Tecnologias
+## Tecnologias utilizadas
 [Python 3.x]\
 [Django]\
 [Django rest framework]\
