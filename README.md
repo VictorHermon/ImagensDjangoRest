@@ -30,7 +30,7 @@ Ative esse ambiente com o comando
 source venv/bin/activate
 ```
 
-Recomendo atualizar o pip
+Recomendo atualizar o gerenciador de pacotes pip
 ```bash
 pip install --upgrade pip
 ```
