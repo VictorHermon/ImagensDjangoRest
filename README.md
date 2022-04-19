@@ -37,7 +37,7 @@ pip install --upgrade pip
 
 Instale os modulos necessários para executar o projeto
 ```bash
-pip install -r requiriments.txt
+pip install -r requirements.txt
 ```
 
 Crie um arquivo (.env) e dentro dele defina a variavel DJANGO_SECRET_KEY com o valor gerado do codigo abaixo
