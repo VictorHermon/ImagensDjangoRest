@@ -20,14 +20,14 @@ Faça uma cópia do projeto
 git clone https://github.com/VictorHermon/ImagensDjangoRest.git
 ```
 
-Instale o pacote abaixo, para criação do ambiente virtual, substitua o X pela sua versão do python
+Instale o pacote abaixo, para criação do ambiente virtual
 ```bash
-sudo apt install python3.x-venv
+sudo apt install python3-venv
 ```
 
 Dentro do diretorio do projeto, crie um ambiente virtual para instalar as dependências
 ```bash
-python -m venv ./venv
+python3 -m venv ./venv
 ```
 
 Ative esse ambiente com o comando
